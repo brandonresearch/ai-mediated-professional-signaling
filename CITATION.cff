@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using the metadata from this file."
+title: "AI-Mediated Professional Signaling: Communication, Visibility, and Authenticity in the Age of Generative AI"
+authors:
+  - family-names: Himpfen
+    given-names: Brandon
+date-released: 2026-05-19
+version: 1.0.0
+license: CC-BY-4.0
+type: article
+abstract: "A conceptual framework paper examining generative AI as communication infrastructure that reshapes professional signaling, visibility, authenticity, and participation in digital professional environments."
+keywords:
+  - generative AI
+  - professional signaling
+  - AI-mediated communication
+  - authenticity
+  - digital platforms
+  - human-AI collaboration
+url: "https://www.brandonhimpfen.com"
